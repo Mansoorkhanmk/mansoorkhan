@@ -1,0 +1,65 @@
+
+body {
+    background-color: maroon;
+}
+
+
+
+
+header h1 {
+  font-size: 70px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+
+label{
+    font-size: 30px;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    padding-left: 0px;
+
+    /* font-size: 72px;
+    background: -webkit-linear-gradient(rgb(125, 247, 141), rgb(202, 201, 253));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+}
+
+input {
+
+    height:60px; 
+    font-size:14pt;
+    width: 600px;
+
+}
+
+legend {
+    color: whitep[p];
+    font-weight: bold;
+    font-size: 30px;
+}
+
+table {
+    
+}
+.hr7 {
+        height: 10px;
+        border-style: solid;
+        border-color: #095484;
+        border-width: 1px 0 0 0;
+        border-radius: 20px;
+      }
+      .hr8 {
+        display: block;
+        content: "";
+        height: 20px;
+        margin-top: -31px;
+        border-style: solid;
+        border-color: #095484;
+        border-width: 0 0 1px 0;
+        border-radius: 20px;
+      }
